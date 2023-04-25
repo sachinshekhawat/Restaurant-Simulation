@@ -1,0 +1,7 @@
+numTables 7
+maxMoney 2509
+maxCapBar 23
+maxNumWaiters 7
+customerPeriod 8
+maxWaiterServiceTime 2
+maxDoormanServiceTime 2
